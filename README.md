@@ -39,7 +39,7 @@ Build deep, foundational expertise in **Mechanistic Interpretability of LLMs**, 
 | **[Python 3.10+](https://www.python.org/)** | Core language for ML and scientific computing |
 | **[PyTorch](https://pytorch.org/)** | Deep learning framework used in most interpretability research |
 | **[TransformerLens](https://github.com/neelnanda-io/TransformerLens)** | Core MI library for analyzing Transformer internals |
-| **Jupyter / VSCode / Colab** | IDEs and notebooks for experiments |
+| **VSCode** | IDE for experiments |
 | **Matplotlib / Seaborn / Plotly** | Visualization libraries |
 | **Git + GitHub** | Code versioning and publishing |
 | **Weights & Biases / TensorBoard** | (Optional) experiment tracking |
