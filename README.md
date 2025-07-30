@@ -1,6 +1,6 @@
-# 🧠 Mechanistic Interpretability for Real-World Language Model Failures
+# Mechanistic Interpretability for Real-World Language Model Failures
 
-## 📍 Overview
+## Overview
 
 This repository accompanies the Master's thesis:
 
@@ -12,7 +12,7 @@ All experiments are conducted on small-to-medium open-source models (e.g. Pythia
 
 ---
 
-## 🧪 Real-World Tasks
+## Real-World Tasks
 
 We analyze circuits and failure modes in tasks with direct real-world implications:
 
@@ -24,7 +24,7 @@ We analyze circuits and failure modes in tasks with direct real-world implicatio
 
 ---
 
-## ⚙️ Tooling & Frameworks
+## Tooling & Frameworks
 
 This project uses the following open-source tools:
 
@@ -35,7 +35,7 @@ This project uses the following open-source tools:
 
 ---
 
-## 🧩 Circuit Analysis Modules
+## Circuit Analysis Modules
 
 | Module                              | Description                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ This project uses the following open-source tools:
 
 ---
 
-## 🧪 Example: Hallucination Suppression
+## Example: Hallucination Suppression
 
 ```bash
 python hallucination_circuits.py --model pythia-160m \
